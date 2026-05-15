@@ -62,6 +62,8 @@ Control commands are only sent when a state change is required, reducing unneces
 Key Results:-
 
 <img width="796" height="465" alt="image" src="https://github.com/user-attachments/assets/6aeb7793-f42a-496e-a1ad-184a48c3b5af" />
+<img width="1246" height="314" alt="image" src="https://github.com/user-attachments/assets/b8fbeac7-398e-45e8-9c4a-b2cb805053b1" />
+
 <img width="1437" height="415" alt="image" src="https://github.com/user-attachments/assets/946a0475-8920-46e0-b3a1-1652cb8158e7" />
 <img width="1238" height="1010" alt="image" src="https://github.com/user-attachments/assets/a148239b-2217-4c3f-8d04-86b6b17fc3e7" />
 <img width="1519" height="315" alt="image" src="https://github.com/user-attachments/assets/5e11c78c-f167-4a67-bbb9-efe2cb7b765a" />
