@@ -37,27 +37,9 @@ IF moisture > 60%  → Deactivate pump (OFF)
 IF 40% ≤ moisture ≤ 60% → Keep current pump state
 Control commands are only sent when a state change is required, reducing unnecessary MQTT communication overhead.
 
-├── code/
-│   ├── GreenRoofEdge.ino                  # ESP32 firmware — Edge architecture
-│   ├── GreenRoofCloud.ino                 # ESP32 firmware — Cloud architecture
-│   ├── GreenRoofHybrid.ino                # ESP32 firmware — Hybrid architecture
-│   ├── GreenRoofMonitorTbIntegration.ino  # ThingsBoard monitoring integration
-│   ├── EdgeLogger.py                      # Python metric logger — Edge
-│   ├── CloudLogger.py                     # Python metric logger — Cloud
-│   └── HybridLogger.py                    # Python metric logger — Hybrid
-├── experiment_data/
-│   ├── edge_log_20260512_111448.csv        # Edge experiment run 1
-│   ├── edge_log_20260512_112535.csv        # Edge experiment run 2
-│   ├── edge_log_20260512_114403.csv        # Edge experiment run 3
-│   ├── cloud_log_20260514_002323.csv       # Cloud experiment run 1
-│   ├── cloud_log_20260514_004743.csv       # Cloud experiment run 2
-│   ├── cloud_log_20260514_005847.csv       # Cloud experiment run 3
-│   ├── hybrid_log_20260514_122630.csv      # Hybrid experiment run 1
-│   ├── hybrid_log_20260514_124010.csv      # Hybrid experiment run 2
-│   ├── hybrid_log_20260514_125505.csv      # Hybrid experiment run 3
-│   └── logs.txt                            # Raw system logs
-├── LICENSE
-└── README.md
+<img width="1290" height="1274" alt="image" src="https://github.com/user-attachments/assets/8a6455dc-3b04-42ff-9792-83be15dd6283" />
+
+
 
 Key Results:-
 
