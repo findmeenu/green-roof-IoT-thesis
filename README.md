@@ -81,9 +81,11 @@ Tasmota-flashed smart plug configured with MQTT topic cmnd/plug1/POWER
 
 Configuration
 In the firmware sketch, update the following constants before uploading:
+
 cpp// Wi-Fi
 const char* WIFI_SSID     = "your_network_name";
 const char* WIFI_PASSWORD = "your_password";
+
 
 // ThingsBoard (cloud/hybrid only)
 const char* TB_SERVER = "eu.thingsboard.cloud";
